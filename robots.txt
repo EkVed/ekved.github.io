@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://silkyverma.github.io/EkVed/sitemap.xml
